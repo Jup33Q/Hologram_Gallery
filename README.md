@@ -3,3 +3,4 @@ this is a personal streamlit web project shows LKG holograms created by myself
 ```
 streamlit run HoloGal_Jup33Q
 ```
+https://jup33qholo.streamlit.app/
