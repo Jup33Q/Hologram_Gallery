@@ -14,6 +14,48 @@ with st.sidebar:
 
 st.title('My Holo Gallery')
 
+st.markdown('''
+## AIGC Stuffs and Ray Portals
+            ''')
+st.divider()
+st.write('created in Early Feb/2025(Chinese New Year)')
+components.html(
+    '''
+<div class="lkg-blocks-player" style="padding:133.333% 0 0 0;position:relative;"><iframe src="https://blocks.glass/embed/15860ec2-5d98-4ebe-8cb2-bac5e9add00c" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; encrypted-media; xr-spatial-tracking; accelerometer; gyroscope; magnetometer" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" execution-while-out-of-viewport="true" execution-while-not-rendered="true"></iframe></div>      
+    ''',
+    height=1000, width=800
+)
+
+
+components.html(
+    '''
+    <div class="lkg-blocks-player" style="padding:133.333% 0 0 0;position:relative;"><iframe src="https://blocks.glass/embed/ebafd9b9-90d6-4588-a3b0-28c61946298f" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; encrypted-media; xr-spatial-tracking; accelerometer; gyroscope; magnetometer" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" execution-while-out-of-viewport="true" execution-while-not-rendered="true"></iframe></div>
+    ''',
+    height=1000, width=800
+)
+
+components.html(
+    '''
+<div class="lkg-blocks-player" style="padding:133.333% 0 0 0;position:relative;"><iframe src="https://blocks.glass/embed/3596ba29-0750-45fa-89d7-b3006fd2fbaa" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; encrypted-media; xr-spatial-tracking; accelerometer; gyroscope; magnetometer" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" execution-while-out-of-viewport="true" execution-while-not-rendered="true"></iframe></div>
+
+    ''',
+    height=1000, width=800
+)
+components.html(
+    '''
+    <div class="lkg-blocks-player" style="padding:133.333% 0 0 0;position:relative;"><iframe src="https://blocks.glass/embed/5416793e-9ba1-4878-8dca-f72ca0d3cc4a" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; encrypted-media; xr-spatial-tracking; accelerometer; gyroscope; magnetometer" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" execution-while-out-of-viewport="true" execution-while-not-rendered="true"></iframe></div>
+    ''',
+    height=1000, width=800
+)
+
+st.write('for AIGC workflows as above, plz visit my GitHub repository Lightfield_Reimagined (https://github.com/Jup33Q/Lightfield_reimagined)')
+components.html(
+    '''
+<div class="lkg-blocks-player" style="padding:133.333% 0 0 0;position:relative;"><iframe src="https://blocks.glass/embed/7540ceaa-0fd2-4e89-9d59-863d19c9af7c" frameborder="0" style="position:absolute;top:0;left:0;width:100%;height:100%;" allow="autoplay; encrypted-media; xr-spatial-tracking; accelerometer; gyroscope; magnetometer" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" execution-while-out-of-viewport="true" execution-while-not-rendered="true"></iframe></div>
+
+''',
+    height=1000, width=800
+)
 
 st.markdown('''
 ## Spacecraft, Spheres and Boxes
