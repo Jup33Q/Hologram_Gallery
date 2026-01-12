@@ -11,3 +11,4 @@ https://jup33qholo.streamlit.app/
 ```
 streamlit run HoloGal_V2_Jup33Q
 ```
+https://hologal-v2-jup33q.streamlit.app/
